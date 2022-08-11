@@ -42,7 +42,7 @@ if (michiElegido = "michi fresita") {
     alert("Ingresa una opción válida")
 }
 
-alert(`Queremos que sepas que ${michiBall3.pedirAbrazo}`) 
+alert(`Queremos que sepas que ${michiBall3.etnia, michiBall3.pedirAbrazo}`) 
 
 let respuesta = prompt("¿Deseas abrazar a michi Naranjita?")
 
